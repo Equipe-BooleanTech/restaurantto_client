@@ -84,7 +84,7 @@
     "tslint-config-prettier": "^1.18.0",
     "typescript": "^5.5.4"
   },
-  "packageManager": "npm@10.9.0",
+  "packageManager": "npm@10.9.2",
   "lint-staged": {
     "*.{ts,html}": [
       "prettier --write",
